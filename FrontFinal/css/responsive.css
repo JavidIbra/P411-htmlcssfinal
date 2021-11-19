@@ -1,0 +1,39 @@
+/* @media screen and (max-width: 965px) {
+  .navbar-toggler {
+
+  }
+  .navbar-brand{
+      color: black;
+  }
+  .sticky {
+    margin-top: 0;
+    width: 100%;
+    position: fixed;
+    padding: 5px 100px;
+    background: #fff;
+    height: 70px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+    #nav {
+        margin-top: 0;
+        width: 100%;
+        display: flex;
+        position: fixed;
+        padding: 5px 100px;
+        background: #fff;
+        color: black;
+        height: 70px;
+    }
+    .front{
+        margin-right: 200px;
+    }
+}
+@media screen and (max-width: 400px) {
+
+@media screen and (min-width: 370px) {
+    .front{
+        margin-right: 35px;
+    }
+} */
